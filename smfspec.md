@@ -1,5 +1,8 @@
 # SMF (Standard MIDI Files) の構造
 
+<details>
+<summary>更新履歴</summary>
+
 ## 更新履歴
  * v1.08: Jan. 3rd, 2023;  
    * [RP-019のリンク先](https://amei.or.jp/midistandardcommittee/Recommended_Practice/e/rp19a.pdf)を変更。
@@ -45,6 +48,7 @@
 * 初版: Nov. 28th, 2000;  
 簡潔かつ必要十分なSMF解説って見たことがなかったので作ってみた。 でもまだ25kもある・・・。
 
+</details>
 
 
 ## SMFとは
