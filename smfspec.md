@@ -9,8 +9,8 @@
    * googleだと非常に扱いづらかったため、githubに移行。それに伴い本コンテンツ全体をmarkdownでリライト。
 
  * v1.07: Jan. 6th, 2020;  
-   このページから参照していた「Standard MIDI Files 0.06 March 1, 1988 の翻訳」が @niftyさんのサービス終了で参照できなくなったことを機に、 参照文書を[AMEIさん発行の正式な翻訳文書](https://amei.or.jp/midistandardcommittee/MIDI1.0.pdf)に変更。  
-   ただ、筆者はむしろ「～0.06～の翻訳」の方に大変お世話になったため、 感謝の意味を込めて参考文献として当該資料をそのまま掲載。  
+   このページから参照していた[「Standard MIDI Files 0.06 March 1, 1988 の翻訳」](MIDIFILE.DOC.txt)が @niftyさんのサービス終了で参照できなくなったことを機に、 参照文書を[AMEIさん発行の正式な翻訳文書](https://amei.or.jp/midistandardcommittee/MIDI1.0.pdf)に変更。  
+   ただ、筆者はむしろ「～0.06～の翻訳」の方に大変お世話になったため、 感謝の意味を込めて[参考文献として当該資料をそのまま掲載](MIDIFILE.DOC.txt)。  
    (当該資料は転載自由となっており、その意味でも感謝)  
    これに伴い以下の記載を、新規引用元の文面に即した形に更新。  
      * [時間単位](#division)の説明
@@ -506,7 +506,7 @@ miは長調か短調かを表すフラグで、0なら長調、1なら短調。
   > フォーマット0のファイルでは、テンポはトラック中のいたるところにばらまかれており、 テンポ・マップ・リーダーは、その間にあるイベントを無視しなければならない。 フォーマット1では、テンポ・マップは第1トラックにストアされなければならない。
 
 ## 参考文献 <a id="reference"></a>
- * Standard MIDI Files 0.06 March 1, 1988 の翻訳 (M&A NETの方々)
+ * [Standard MIDI Files 0.06 March 1, 1988 の翻訳 (M&A NETの方々)](MIDIFILE.DOC.txt)
  * [MIDI 1.0 規格書](https://amei.or.jp/midistandardcommittee/MIDI1.0.pdf) (AMEI)
  * SMFリファレンス・ブック (リットーミュージック)
  * MIDI検定3級公式ガイドブック ([AMEI](https://www.amei.or.jp/)/JSPA)
