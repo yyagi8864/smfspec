@@ -30,7 +30,7 @@
 [コントロールチェンジの構成バイト数の例外について補足追加。](#bn4byte) (OMNI OFF/MONO(MODE 4)の場合のみ、4byteになる) (kAzzさんthanks!!)
 
 * v1.03: Feb. 14th, 2005;  
-[ピッチベンドの最大値に対応する値を修正。](#midievent) (0x7FFF → 0x7F7F) (須田さんthanks!!)
+[ピッチベンドの最大値に対応する値を修正。](#en) (0x7FFF → 0x7F7F) (須田さんthanks!!)
 
 * v1.02: Sep. 13th, 2001;  
 [Recommended Practice (RP-019) SMF Device Name and Program Name Meta Events](https://amei.or.jp/midistandardcommittee/Recommended_Practice/e/rp19a.pdf) の内容を反映。  
