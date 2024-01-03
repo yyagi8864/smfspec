@@ -27,7 +27,7 @@
 [ランニングステータスの説明中、「ミ」のノート番号を間違えていたのを修正。](#runningstatus) (石田さんthanks!!)
 
 * v1.04: Mar. 7th, 2008;  
-[コントロールチェンジの構成バイト数の例外について補足追加。](#midievent) (OMNI OFF/MONO(MODE 4)の場合のみ、4byteになる) (kAzzさんthanks!!)
+[コントロールチェンジの構成バイト数の例外について補足追加。](#bn4byte) (OMNI OFF/MONO(MODE 4)の場合のみ、4byteになる) (kAzzさんthanks!!)
 
 * v1.03: Feb. 14th, 2005;  
 [ピッチベンドの最大値に対応する値を修正。](#midievent) (0x7FFF → 0x7F7F) (須田さんthanks!!)
